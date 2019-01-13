@@ -76,9 +76,9 @@ public class JSONUtil {
         obj.put("age", new Integer(10));
 
         JSONArray list = new JSONArray();
-        list.add("msg1");
-        list.add("msg2");
-        list.add("msg3");
+        list.add("Message 1 ");
+        list.add("Message 2");
+        list.add("Message 3");
 
         obj.put("messages", list);
 
