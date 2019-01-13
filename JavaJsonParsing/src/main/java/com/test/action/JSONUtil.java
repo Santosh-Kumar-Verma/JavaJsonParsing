@@ -72,7 +72,7 @@ public class JSONUtil {
 	public static void writeJSONToFileByJSONSimple(String filePaht) throws JsonGenerationException, JsonMappingException, IOException {
 		
 		JSONObject obj = new JSONObject();
-        obj.put("name", "Satnosh");
+        obj.put("name", "Satnosh verma");
         obj.put("age", new Integer(10));
 
         JSONArray list = new JSONArray();
