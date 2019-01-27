@@ -1,7 +1,7 @@
 package com.test.dto;
 /**
  * 
- * @author Santosh
+ * @author Santosh kumar verma
  *
  */
 public class Employee {
